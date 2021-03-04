@@ -1,4 +1,10 @@
-namaste india 
-from mumbai
-i m dev 
-this is testing code for our study
+First you have login into your instance ec2
+create one directory #mkdir dir. name 
+go to that dir. #cd dir.name
+and run the below command for starting to git:
+#git init and create new file with "cat" command 
+and add to staging area from commnad #git add .
+and commit the file from this command #git commit -m "type your msg here"
+and push into the remote repository from this commnad #git push -u origin master <press enter>
+and give the email id and password of github account 
+that it 
