@@ -8,3 +8,16 @@ and commit the file from this command #git commit -m "type your msg here"
 and push into the remote repository from this commnad #git push -u origin master <press enter>
 and give the email id and password of github account 
 that it 
+First you have to login into your other/singapore ec2 instance
+create one directory #mkdir dir.name
+and goto the dir. #cd dir.name
+and run the below commnad for starting to git:
+#git init 
+now add with Github account from below command;
+#git remote add origin <paste the url of github a/c>
+and pull the file from github a/c from command #git pull origin master
+and type email a/c of git hub and give the password and check the file 
+and add some data and add,commit,push the file again to remote repository
+such as above lines i already share steps for how to push the file on remote/central repo.
+that's it 
+Thanks
